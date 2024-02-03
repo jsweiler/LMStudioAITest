@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{242BDF20-8FFE-41BE-99C2-704CB7C8445A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMStudioAITest", "ConsoleApp5\LMStudioAITest.csproj", "{242BDF20-8FFE-41BE-99C2-704CB7C8445A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
